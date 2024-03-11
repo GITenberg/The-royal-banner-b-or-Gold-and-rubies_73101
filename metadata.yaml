@@ -1,0 +1,24 @@
+_repo: The-royal-banner-b-or-Gold-and-rubies_73101
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Horsburgh, Matilda
+    gutenberg_agent_id: '56945'
+    url: http://www.gutenberg.org/2009/agents/56945
+description: ''
+gutenberg_issued: '2024-03-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73101'
+language: en
+pgterms:marc905: 20240229090628horsburgh
+pgterms:marc906: '1888'
+pgterms:marc907: GB
+publication_note: '  $aLondon :$bT. Nelson and Sons, $c1888.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The royal banner : $b or, Gold and rubies'
+url: http://www.gutenberg.org/ebooks/73101
